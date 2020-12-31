@@ -1,16 +1,11 @@
 # ninja_id
 
-First app by NetNinja.
+This is my first Flutter app created from NetNinja's [Flutter tutorial](https://github.com/iamshaunjp/flutter-beginners-tutorial).
 
-## Getting Started
+It's a silly little single-page app demonstrating stateful widgets. 
+The ninja level increments when the floating action button is pressed.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/22490250/103389272-e67a4c80-4adb-11eb-8e25-14ecc9338192.png" width="50%" alt="
+Screenshot"></img>
+</p>
